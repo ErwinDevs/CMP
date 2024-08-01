@@ -14,6 +14,16 @@
                     "season_number": 1,
                     "episode_number": 2,
                     "content_url": "CERS_S01E02/Chivas%20el%20Reba%C3%B1o%20Sagrado%20S01E02.mp4"
+                },
+                {
+                    "season_number": 1,
+                    "episode_number": 3,
+                    "content_url": "CERS_S01E03/Chivas%20el%20Reba%C3%B1o%20Sagrado%20S01E03.mp4"
+                },
+                {
+                    "season_number": 1,
+                    "episode_number": 4,
+                    "content_url": "CERS_S01E03/Chivas%20el%20Reba%C3%B1o%20Sagrado%20S01E04.mp4"
                 }
             ]
         }
