@@ -1,27 +1,47 @@
 {
     "content_featured": [
         {
-            "content_id": 4,
-            "count": 8
+            "content_id": 147,
+            "count": 15
         },
         {
-            "content_id": 147,
+            "content_id": 4,
+            "count": 12
+        },
+        {
+            "content_id": 7,
             "count": 8
         },
         {
             "content_id": 58,
-            "count": 7
-        },
-        {
-            "content_id": 300,
-            "count": 6
+            "count": 8
         },
         {
             "content_id": 26,
-            "count": 6
+            "count": 7
         },
         {
             "content_id": 24,
+            "count": 7
+        },
+        {
+            "content_id": 56,
+            "count": 7
+        },
+        {
+            "content_id": 36,
+            "count": 7
+        },
+        {
+            "content_id": 292,
+            "count": 7
+        },
+        {
+            "content_id": 18,
+            "count": 6
+        },
+        {
+            "content_id": 300,
             "count": 6
         },
         {
@@ -33,15 +53,7 @@
             "count": 6
         },
         {
-            "content_id": 292,
-            "count": 6
-        },
-        {
             "content_id": 32,
-            "count": 6
-        },
-        {
-            "content_id": 36,
             "count": 6
         },
         {
@@ -49,35 +61,23 @@
             "count": 6
         },
         {
-            "content_id": 56,
+            "content_id": 9,
             "count": 6
-        },
-        {
-            "content_id": 57,
-            "count": 5
-        },
-        {
-            "content_id": 18,
-            "count": 5
         },
         {
             "content_id": 20,
             "count": 5
         },
         {
-            "content_id": 9,
-            "count": 5
-        },
-        {
-            "content_id": 307,
-            "count": 5
-        },
-        {
-            "content_id": 7,
+            "content_id": 57,
             "count": 5
         },
         {
             "content_id": 263,
+            "count": 5
+        },
+        {
+            "content_id": 307,
             "count": 5
         }
     ]
