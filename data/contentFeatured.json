@@ -2,6 +2,82 @@
     "content_featured": [
         {
             "content_id": 28,
+            "count": 8
+        },
+        {
+            "content_id": 26,
+            "count": 6
+        },
+        {
+            "content_id": 4,
+            "count": 3
+        },
+        {
+            "content_id": 31,
+            "count": 3
+        },
+        {
+            "content_id": 345,
+            "count": 3
+        },
+        {
+            "content_id": 342,
+            "count": 3
+        },
+        {
+            "content_id": 12,
+            "count": 2
+        },
+        {
+            "content_id": 339,
+            "count": 2
+        },
+        {
+            "content_id": 322,
+            "count": 2
+        },
+        {
+            "content_id": 63,
+            "count": 2
+        },
+        {
+            "content_id": 62,
+            "count": 2
+        },
+        {
+            "content_id": 41,
+            "count": 2
+        },
+        {
+            "content_id": 32,
+            "count": 2
+        },
+        {
+            "content_id": 86,
+            "count": 1
+        },
+        {
+            "content_id": 321,
+            "count": 1
+        },
+        {
+            "content_id": 333,
+            "count": 1
+        },
+        {
+            "content_id": 336,
+            "count": 1
+        },
+        {
+            "content_id": 45,
+            "count": 1
+        },
+        {
+            "content_id": 343,
+            "count": 1
+        },
+        {
+            "content_id": 344,
             "count": 1
         }
     ]
