@@ -1,19 +1,19 @@
 {
     "content_featured": [
         {
-            "content_id": 260,
-            "count": 3
-        },
-        {
             "content_id": 345,
             "count": 3
         },
         {
-            "content_id": 31,
-            "count": 2
+            "content_id": 260,
+            "count": 3
         },
         {
             "content_id": 344,
+            "count": 2
+        },
+        {
+            "content_id": 31,
             "count": 2
         },
         {
@@ -22,10 +22,6 @@
         },
         {
             "content_id": 291,
-            "count": 1
-        },
-        {
-            "content_id": 15,
             "count": 1
         },
         {
@@ -49,10 +45,6 @@
             "count": 1
         },
         {
-            "content_id": 20,
-            "count": 1
-        },
-        {
             "content_id": 12,
             "count": 1
         },
@@ -69,15 +61,15 @@
             "count": 1
         },
         {
-            "content_id": 35,
-            "count": 1
-        },
-        {
             "content_id": 32,
             "count": 1
         },
         {
-            "content_id": 27,
+            "content_id": 20,
+            "count": 1
+        },
+        {
+            "content_id": 15,
             "count": 1
         }
     ]
