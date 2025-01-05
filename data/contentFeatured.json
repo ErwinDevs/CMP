@@ -13,11 +13,11 @@
             "count": 2
         },
         {
-            "content_id": 12,
-            "count": 1
+            "content_id": 333,
+            "count": 2
         },
         {
-            "content_id": 15,
+            "content_id": 12,
             "count": 1
         },
         {
@@ -42,10 +42,6 @@
         },
         {
             "content_id": 305,
-            "count": 1
-        },
-        {
-            "content_id": 319,
             "count": 1
         }
     ]
