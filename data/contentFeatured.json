@@ -5,12 +5,16 @@
             "count": 7
         },
         {
-            "content_id": 345,
-            "count": 6
-        },
-        {
             "content_id": 341,
             "count": 5
+        },
+        {
+            "content_id": 345,
+            "count": 5
+        },
+        {
+            "content_id": 98,
+            "count": 4
         },
         {
             "content_id": 342,
@@ -25,7 +29,7 @@
             "count": 3
         },
         {
-            "content_id": 98,
+            "content_id": 370,
             "count": 3
         },
         {
@@ -58,10 +62,6 @@
         },
         {
             "content_id": 18,
-            "count": 2
-        },
-        {
-            "content_id": 66,
             "count": 2
         },
         {
