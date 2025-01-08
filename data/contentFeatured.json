@@ -2,10 +2,14 @@
     "content_featured": [
         {
             "content_id": 373,
+            "count": 3
+        },
+        {
+            "content_id": 391,
             "count": 2
         },
         {
-            "content_id": 379,
+            "content_id": 393,
             "count": 2
         },
         {
@@ -29,10 +33,6 @@
             "count": 1
         },
         {
-            "content_id": 158,
-            "count": 1
-        },
-        {
             "content_id": 281,
             "count": 1
         },
@@ -49,11 +49,7 @@
             "count": 1
         },
         {
-            "content_id": 391,
-            "count": 1
-        },
-        {
-            "content_id": 393,
+            "content_id": 379,
             "count": 1
         }
     ]
