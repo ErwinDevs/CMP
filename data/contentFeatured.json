@@ -1,10 +1,6 @@
 {
     "content_featured": [
         {
-            "content_id": 127,
-            "count": 3
-        },
-        {
             "content_id": 128,
             "count": 3
         },
@@ -14,6 +10,10 @@
         },
         {
             "content_id": 26,
+            "count": 2
+        },
+        {
+            "content_id": 127,
             "count": 2
         },
         {
@@ -34,10 +34,6 @@
         },
         {
             "content_id": 292,
-            "count": 1
-        },
-        {
-            "content_id": 343,
             "count": 1
         }
     ]
