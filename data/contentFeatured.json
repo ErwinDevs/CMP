@@ -2,10 +2,22 @@
     "content_featured": [
         {
             "content_id": 405,
-            "count": 4
+            "count": 5
         },
         {
             "content_id": 149,
+            "count": 1
+        },
+        {
+            "content_id": 260,
+            "count": 1
+        },
+        {
+            "content_id": 385,
+            "count": 1
+        },
+        {
+            "content_id": 392,
             "count": 1
         }
     ]
