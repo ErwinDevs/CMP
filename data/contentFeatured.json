@@ -1,15 +1,15 @@
 {
     "content_featured": [
         {
-            "content_id": 7,
-            "count": 2
-        },
-        {
             "content_id": 20,
             "count": 2
         },
         {
             "content_id": 1,
+            "count": 1
+        },
+        {
+            "content_id": 7,
             "count": 1
         },
         {
