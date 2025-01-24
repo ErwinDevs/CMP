@@ -1,11 +1,11 @@
 {
     "content_featured": [
         {
-            "content_id": 1,
-            "count": 1
+            "content_id": 405,
+            "count": 2
         },
         {
-            "content_id": 7,
+            "content_id": 1,
             "count": 1
         },
         {
@@ -37,7 +37,7 @@
             "count": 1
         },
         {
-            "content_id": 405,
+            "content_id": 382,
             "count": 1
         }
     ]
