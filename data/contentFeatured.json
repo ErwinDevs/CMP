@@ -1,6 +1,10 @@
 {
     "content_featured": [
         {
+            "content_id": 1,
+            "count": 1
+        },
+        {
             "content_id": 37,
             "count": 1
         },
@@ -13,11 +17,19 @@
             "count": 1
         },
         {
+            "content_id": 260,
+            "count": 1
+        },
+        {
             "content_id": 344,
             "count": 1
         },
         {
             "content_id": 382,
+            "count": 1
+        },
+        {
+            "content_id": 391,
             "count": 1
         },
         {
