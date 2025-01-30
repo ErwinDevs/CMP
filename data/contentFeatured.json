@@ -1,6 +1,10 @@
 {
     "content_featured": [
         {
+            "content_id": 4,
+            "count": 2
+        },
+        {
             "content_id": 32,
             "count": 1
         }
