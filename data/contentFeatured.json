@@ -1,8 +1,8 @@
 {
     "content_featured": [
         {
-            "content_id": 384,
-            "count": 2
+            "content_id": 46,
+            "count": 3
         },
         {
             "content_id": 292,
@@ -13,11 +13,11 @@
             "count": 2
         },
         {
-            "content_id": 157,
+            "content_id": 384,
             "count": 1
         },
         {
-            "content_id": 382,
+            "content_id": 45,
             "count": 1
         },
         {
@@ -33,10 +33,6 @@
             "count": 1
         },
         {
-            "content_id": 269,
-            "count": 1
-        },
-        {
             "content_id": 267,
             "count": 1
         },
@@ -45,7 +41,7 @@
             "count": 1
         },
         {
-            "content_id": 45,
+            "content_id": 157,
             "count": 1
         },
         {
@@ -62,6 +58,10 @@
         },
         {
             "content_id": 134,
+            "count": 1
+        },
+        {
+            "content_id": 90,
             "count": 1
         },
         {
