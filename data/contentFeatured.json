@@ -9,10 +9,6 @@
             "count": 2
         },
         {
-            "content_id": 342,
-            "count": 2
-        },
-        {
             "content_id": 373,
             "count": 2
         },
@@ -34,6 +30,10 @@
         },
         {
             "content_id": 327,
+            "count": 1
+        },
+        {
+            "content_id": 342,
             "count": 1
         }
     ]
