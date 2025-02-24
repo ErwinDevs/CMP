@@ -2,58 +2,18 @@
     "content_featured": [
         {
             "content_id": 401,
-            "count": 4
+            "count": 5
         },
         {
             "content_id": 309,
             "count": 2
         },
         {
-            "content_id": 15,
-            "count": 1
-        },
-        {
-            "content_id": 43,
-            "count": 1
-        },
-        {
-            "content_id": 76,
-            "count": 1
-        },
-        {
-            "content_id": 148,
-            "count": 1
-        },
-        {
-            "content_id": 269,
-            "count": 1
-        },
-        {
-            "content_id": 277,
-            "count": 1
-        },
-        {
-            "content_id": 300,
-            "count": 1
-        },
-        {
             "content_id": 305,
             "count": 1
         },
         {
-            "content_id": 327,
-            "count": 1
-        },
-        {
-            "content_id": 329,
-            "count": 1
-        },
-        {
-            "content_id": 342,
-            "count": 1
-        },
-        {
-            "content_id": 373,
+            "content_id": 409,
             "count": 1
         },
         {
@@ -61,7 +21,51 @@
             "count": 1
         },
         {
-            "content_id": 409,
+            "content_id": 373,
+            "count": 1
+        },
+        {
+            "content_id": 342,
+            "count": 1
+        },
+        {
+            "content_id": 329,
+            "count": 1
+        },
+        {
+            "content_id": 327,
+            "count": 1
+        },
+        {
+            "content_id": 15,
+            "count": 1
+        },
+        {
+            "content_id": 300,
+            "count": 1
+        },
+        {
+            "content_id": 277,
+            "count": 1
+        },
+        {
+            "content_id": 269,
+            "count": 1
+        },
+        {
+            "content_id": 148,
+            "count": 1
+        },
+        {
+            "content_id": 127,
+            "count": 1
+        },
+        {
+            "content_id": 76,
+            "count": 1
+        },
+        {
+            "content_id": 43,
             "count": 1
         }
     ]
