@@ -6,7 +6,7 @@
         },
         {
             "content_id": 379,
-            "count": 5
+            "count": 4
         },
         {
             "content_id": 4,
@@ -34,10 +34,6 @@
         },
         {
             "content_id": 147,
-            "count": 2
-        },
-        {
-            "content_id": 80,
             "count": 2
         },
         {
@@ -78,6 +74,10 @@
         },
         {
             "content_id": 296,
+            "count": 1
+        },
+        {
+            "content_id": 86,
             "count": 1
         }
     ]
