@@ -2,22 +2,22 @@
     "content_featured": [
         {
             "content_id": 401,
-            "count": 6
+            "count": 5
         },
         {
             "content_id": 379,
             "count": 4
         },
         {
-            "content_id": 4,
-            "count": 3
-        },
-        {
             "content_id": 76,
             "count": 3
         },
         {
-            "content_id": 8,
+            "content_id": 4,
+            "count": 3
+        },
+        {
+            "content_id": 289,
             "count": 2
         },
         {
@@ -29,11 +29,11 @@
             "count": 2
         },
         {
-            "content_id": 289,
+            "content_id": 147,
             "count": 2
         },
         {
-            "content_id": 147,
+            "content_id": 8,
             "count": 2
         },
         {
@@ -49,7 +49,7 @@
             "count": 1
         },
         {
-            "content_id": 127,
+            "content_id": 98,
             "count": 1
         },
         {
@@ -61,15 +61,15 @@
             "count": 1
         },
         {
+            "content_id": 293,
+            "count": 1
+        },
+        {
             "content_id": 409,
             "count": 1
         },
         {
-            "content_id": 294,
-            "count": 1
-        },
-        {
-            "content_id": 98,
+            "content_id": 86,
             "count": 1
         },
         {
@@ -77,7 +77,7 @@
             "count": 1
         },
         {
-            "content_id": 86,
+            "content_id": 307,
             "count": 1
         }
     ]
