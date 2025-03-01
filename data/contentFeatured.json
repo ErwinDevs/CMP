@@ -1,63 +1,15 @@
 {
     "content_featured": [
         {
-            "content_id": 401,
-            "count": 3
-        },
-        {
             "content_id": 76,
-            "count": 3
-        },
-        {
-            "content_id": 379,
             "count": 2
         },
         {
-            "content_id": 147,
+            "content_id": 401,
             "count": 2
         },
         {
-            "content_id": 298,
-            "count": 1
-        },
-        {
-            "content_id": 400,
-            "count": 1
-        },
-        {
-            "content_id": 336,
-            "count": 1
-        },
-        {
-            "content_id": 332,
-            "count": 1
-        },
-        {
-            "content_id": 331,
-            "count": 1
-        },
-        {
-            "content_id": 330,
-            "count": 1
-        },
-        {
-            "content_id": 303,
-            "count": 1
-        },
-        {
-            "content_id": 8,
-            "count": 1
-        },
-        {
-            "content_id": 293,
-            "count": 1
-        },
-        {
-            "content_id": 289,
-            "count": 1
-        },
-        {
-            "content_id": 86,
+            "content_id": 57,
             "count": 1
         },
         {
@@ -65,7 +17,47 @@
             "count": 1
         },
         {
-            "content_id": 57,
+            "content_id": 86,
+            "count": 1
+        },
+        {
+            "content_id": 289,
+            "count": 1
+        },
+        {
+            "content_id": 293,
+            "count": 1
+        },
+        {
+            "content_id": 298,
+            "count": 1
+        },
+        {
+            "content_id": 303,
+            "count": 1
+        },
+        {
+            "content_id": 330,
+            "count": 1
+        },
+        {
+            "content_id": 331,
+            "count": 1
+        },
+        {
+            "content_id": 332,
+            "count": 1
+        },
+        {
+            "content_id": 336,
+            "count": 1
+        },
+        {
+            "content_id": 379,
+            "count": 1
+        },
+        {
+            "content_id": 400,
             "count": 1
         }
     ]
