@@ -2,7 +2,7 @@
     "content_featured": [
         {
             "content_id": 143,
-            "count": 25
+            "count": 24
         },
         {
             "content_id": 63,
@@ -37,7 +37,7 @@
             "count": 3
         },
         {
-            "content_id": 149,
+            "content_id": 305,
             "count": 2
         },
         {
@@ -45,7 +45,7 @@
             "count": 2
         },
         {
-            "content_id": 305,
+            "content_id": 309,
             "count": 2
         },
         {
@@ -65,16 +65,16 @@
             "count": 2
         },
         {
-            "content_id": 328,
-            "count": 2
-        },
-        {
             "content_id": 61,
             "count": 2
         },
         {
-            "content_id": 309,
+            "content_id": 328,
             "count": 2
+        },
+        {
+            "content_id": 1,
+            "count": 1
         },
         {
             "content_id": 405,
