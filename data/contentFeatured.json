@@ -13,15 +13,11 @@
             "count": 7
         },
         {
-            "content_id": 104,
-            "count": 4
-        },
-        {
             "content_id": 4393,
             "count": 4
         },
         {
-            "content_id": 306,
+            "content_id": 104,
             "count": 4
         },
         {
@@ -29,7 +25,11 @@
             "count": 4
         },
         {
-            "content_id": 4522,
+            "content_id": 306,
+            "count": 4
+        },
+        {
+            "content_id": 167,
             "count": 3
         },
         {
@@ -37,7 +37,23 @@
             "count": 3
         },
         {
-            "content_id": 2265,
+            "content_id": 4522,
+            "count": 3
+        },
+        {
+            "content_id": 537,
+            "count": 3
+        },
+        {
+            "content_id": 325,
+            "count": 3
+        },
+        {
+            "content_id": 993,
+            "count": 3
+        },
+        {
+            "content_id": 326,
             "count": 3
         },
         {
@@ -45,24 +61,8 @@
             "count": 3
         },
         {
-            "content_id": 167,
+            "content_id": 2265,
             "count": 3
-        },
-        {
-            "content_id": 318,
-            "count": 2
-        },
-        {
-            "content_id": 88,
-            "count": 2
-        },
-        {
-            "content_id": 64,
-            "count": 2
-        },
-        {
-            "content_id": 61,
-            "count": 2
         },
         {
             "content_id": 26,
@@ -73,11 +73,11 @@
             "count": 2
         },
         {
-            "content_id": 143,
+            "content_id": 294,
             "count": 2
         },
         {
-            "content_id": 7,
+            "content_id": 61,
             "count": 2
         }
     ]
