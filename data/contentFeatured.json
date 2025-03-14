@@ -1,7 +1,7 @@
 {
     "content_featured": [
         {
-            "content_id": 1284,
+            "content_id": 852,
             "count": 6
         },
         {
@@ -9,7 +9,11 @@
             "count": 6
         },
         {
-            "content_id": 852,
+            "content_id": 1436,
+            "count": 6
+        },
+        {
+            "content_id": 1284,
             "count": 6
         },
         {
@@ -17,16 +21,8 @@
             "count": 6
         },
         {
-            "content_id": 1436,
-            "count": 6
-        },
-        {
             "content_id": 31,
             "count": 5
-        },
-        {
-            "content_id": 4000,
-            "count": 4
         },
         {
             "content_id": 317,
@@ -41,11 +37,11 @@
             "count": 4
         },
         {
-            "content_id": 42,
-            "count": 3
+            "content_id": 4000,
+            "count": 4
         },
         {
-            "content_id": 401,
+            "content_id": 42,
             "count": 3
         },
         {
@@ -62,6 +58,10 @@
         },
         {
             "content_id": 88,
+            "count": 3
+        },
+        {
+            "content_id": 104,
             "count": 3
         },
         {
